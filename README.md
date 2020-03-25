@@ -27,7 +27,7 @@ Each homework directory contains:
     - Feature extraction
     - Logistic Regression 
 - Homework 5: [problem definition](https://github.com/AliJahan/AdvancedComputerVision/blob/master/HW5/problem/Assignment-5.pdf), [report](https://github.com/AliJahan/AdvancedComputerVision/blob/master/HW5/solution/report.pdf)
-    - training a Convolutional Neural Network (CNN) from scratch using PyTorch.
+    - Training a Convolutional Neural Network (CNN) from scratch using PyTorch.
 - Homework 6: [problem definition](https://github.com/AliJahan/AdvancedComputerVision/blob/master/HW6/problem/Assignment-6.pdf), [report](https://github.com/AliJahan/AdvancedComputerVision/blob/master/HW6/solution/report.pdf)
     - Homography Estimation
     - Implementation of the factorization based Structure from Motion
